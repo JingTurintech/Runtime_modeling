@@ -1,0 +1,3 @@
+Dataset,Model,runtime RMSE,runtime RMSE stats,runtime MAPE,runtime MAPE stats,cpu RMSE,cpu RMSE stats,cpu MAPE,cpu MAPE stats,memory RMSE,memory RMSE stats,memory MAPE,memory MAPE stats
+fbd61c89-85d1-41b6-bcea-146b351b0d49,RF,0.15,"w_p:0.1, t_p:0.11",2.43,"w_p:0.23, t_p:0.23",3.56,"w_p:0.22, t_p:0.27",2.56,"w_p:0.48, t_p:0.37",1771775.6,"w_p:0.9, t_p:0.98",0.82,"w_p:0.82, t_p:0.82"
+,DT,0.15,cohen:0.3,2.39,cohen:0.22,3.63,cohen:-0.2,2.6,cohen:-0.17,1772861.28,cohen:-0.01,0.82,cohen:0.04

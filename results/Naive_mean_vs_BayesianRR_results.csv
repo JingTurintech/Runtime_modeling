@@ -1,0 +1,25 @@
+Dataset,Model,runtime RMSE,runtime RMSE stats,runtime MAPE,runtime MAPE stats,cpu RMSE,cpu RMSE stats,cpu MAPE,cpu MAPE stats,memory RMSE,memory RMSE stats,memory MAPE,memory MAPE stats
+1fb06c00-98b2-48fd-a0bb-bf9f905b1c74,Naive_mean,0.02,"w_p:0.0, t_p:0.02",0.31,"w_p:0.11, t_p:0.22",1.04,"w_p:0.0, t_p:0.0",0.51,"w_p:0.03, t_p:0.02",40844.37,"w_p:0.0, t_p:0.0",0.16,"w_p:0.01, t_p:0.01"
+,BayesianRR,0.02,cohen:-0.46,0.32,cohen:-0.23,1.09,cohen:-0.73,0.53,cohen:-0.45,40844.37,cohen:1.1,0.16,cohen:0.52
+5be99806-cc0d-48ae-8d7a-d1b3c5ad4d30,Naive_mean,0.23,"w_p:0.0, t_p:0.0",0.66,"w_p:0.0, t_p:0.0",2.02,"w_p:0.7, t_p:0.4",42.99,"w_p:0.84, t_p:0.13",109896.3,"w_p:0.01, t_p:0.01",1.01,"w_p:0.03, t_p:0.04"
+,BayesianRR,0.23,cohen:-0.96,0.66,cohen:-0.59,2.02,cohen:-0.16,42.99,cohen:0.28,109896.3,cohen:-0.5,1.01,cohen:-0.4
+686d31e0-796b-4b73-b5b2-ee5955cdc80b,Naive_mean,0.16,"w_p:0.0, t_p:0.0",0.48,"w_p:0.0, t_p:0.0",2.3,"w_p:0.0, t_p:0.03",0.56,"w_p:0.1, t_p:0.1",185463.73,"w_p:0.0, t_p:0.0",1.13,"w_p:0.0, t_p:0.0"
+,BayesianRR,0.16,cohen:-0.63,0.48,cohen:-0.7,2.3,cohen:-0.43,0.56,cohen:-0.31,185463.73,cohen:2.19,1.13,cohen:1.29
+7091f230-ee4a-4304-98a1-21ff3cbe68af,Naive_mean,0.04,"w_p:0.02, t_p:0.09",0.13,"w_p:0.57, t_p:0.45",0.8,"w_p:0.57, t_p:0.12",0.56,"w_p:0.78, t_p:0.44",13939.44,"w_p:0.07, t_p:0.01",0.14,"w_p:0.1, t_p:0.01"
+,BayesianRR,0.04,cohen:0.32,0.13,cohen:-0.14,0.8,cohen:-0.29,0.56,cohen:-0.14,13980.94,cohen:-0.52,0.14,cohen:-0.48
+80068774-5156-467a-bb60-2402d385849a,Naive_mean,0.47,"w_p:0.0, t_p:0.0",9.12,"w_p:0.0, t_p:0.0",16.84,"w_p:0.0, t_p:0.0",8.77,"w_p:0.0, t_p:0.0",7081668.53,"w_p:0.0, t_p:0.0",3.53,"w_p:0.0, t_p:0.0"
+,BayesianRR,0.05,cohen:18.16,0.91,cohen:15.63,2.84,cohen:15.85,1.35,cohen:16.79,7081668.53,cohen:17.74,3.53,cohen:12.85
+8ad940fe-356a-491f-bd14-1bf06ec29fbe,Naive_mean,3.1,"w_p:0.0, t_p:0.0",3.88,"w_p:0.0, t_p:0.0",0.63,"w_p:0.0, t_p:0.0",3.81,"w_p:0.0, t_p:0.0",2006912.08,"w_p:0.01, t_p:0.03",0.57,"w_p:0.94, t_p:0.85"
+,BayesianRR,1.66,cohen:5.06,1.99,cohen:5.23,0.42,cohen:2.6,2.59,cohen:2.12,2006912.08,cohen:0.41,0.57,cohen:-0.03
+a56a3718-f2f3-4052-99e9-5ba20ac6d34a,Naive_mean,0.77,"w_p:0.21, t_p:0.49",4.99,"w_p:0.76, t_p:0.96",11.95,"w_p:0.16, t_p:0.57",4.37,"w_p:0.03, t_p:0.07",3446363.09,"w_p:0.0, t_p:0.0",2.33,"w_p:0.0, t_p:0.0"
+,BayesianRR,0.77,cohen:0.13,4.99,cohen:0.01,11.94,cohen:0.1,4.35,cohen:0.35,3446363.09,cohen:1.41,2.33,cohen:0.63
+afceaa59-2180-42b2-8ee1-3af84f15a7e7,Naive_mean,5.72,"w_p:0.0, t_p:0.0",35.16,"w_p:0.0, t_p:0.0",294.38,"w_p:0.0, t_p:0.0",160.7,"w_p:0.0, t_p:0.0",37967.9,"w_p:0.0, t_p:0.0",2.41,"w_p:0.0, t_p:0.0"
+,BayesianRR,0.08,cohen:69.23,0.45,cohen:18.69,6.24,cohen:65.95,1.47,cohen:6.21,37967.9,cohen:3.35,2.41,cohen:2.23
+c5248992-fd2c-4143-a3bf-c95c9ec7440a,Naive_mean,0.22,"w_p:0.0, t_p:0.0",14.79,"w_p:0.0, t_p:0.0",0.87,"w_p:0.0, t_p:0.0",0.41,"w_p:0.0, t_p:0.0",12551117.75,"w_p:0.0, t_p:0.0",34.18,"w_p:0.0, t_p:0.0"
+,BayesianRR,0.01,cohen:14.67,0.67,cohen:10.72,0.8,cohen:2.58,0.32,cohen:2.47,12551117.75,cohen:25.18,34.18,cohen:20.58
+c997ccd9-459a-4041-9d4f-9a9c890d0c39,Naive_mean,1.37,"w_p:0.0, t_p:0.0",3.1,"w_p:0.0, t_p:0.0",0.06,"w_p:0.0, t_p:0.0",0.05,"w_p:0.0, t_p:0.0",217158.61,"w_p:0.0, t_p:0.0",0.58,"w_p:0.0, t_p:0.0"
+,BayesianRR,0.22,cohen:6.86,0.44,cohen:11.24,0.04,cohen:3.23,0.03,cohen:3.2,217158.61,cohen:3.56,0.58,cohen:3.5
+dcc436ee-0eee-428f-a9cf-55bf944b5c7d,Naive_mean,0.07,"w_p:0.7, t_p:0.62",1.67,"w_p:0.06, t_p:0.04",3.37,"w_p:0.0, t_p:0.0",0.75,"w_p:0.02, t_p:0.02",2126735.13,"w_p:0.0, t_p:0.0",1.22,"w_p:0.0, t_p:0.0"
+,BayesianRR,0.07,cohen:-0.09,1.64,cohen:0.4,3.28,cohen:0.62,0.73,cohen:0.44,2126735.13,cohen:1.39,1.22,cohen:1.04
+fbd61c89-85d1-41b6-bcea-146b351b0d49,Naive_mean,0.37,"w_p:0.0, t_p:0.0",6.31,"w_p:0.0, t_p:0.0",8.19,"w_p:0.0, t_p:0.0",5.74,"w_p:0.0, t_p:0.0",4017334.99,"w_p:0.0, t_p:0.0",1.99,"w_p:0.0, t_p:0.0"
+,BayesianRR,0.18,cohen:2.71,2.82,cohen:2.78,4.41,cohen:2.35,3.09,cohen:2.24,4017334.99,cohen:4.29,1.99,cohen:3.11

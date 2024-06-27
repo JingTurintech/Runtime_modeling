@@ -1,0 +1,13 @@
+Dataset,N_total_samples,N_train_samples,N_test_samples,N_selected_features,N_onehot_features
+http://dev.artemis.turintech.ai/optimisations/1fb06c00-98b2-48fd-a0bb-bf9f905b1c74,46,36,10,30,39
+http://dev.artemis.turintech.ai/optimisations/5be99806-cc0d-48ae-8d7a-d1b3c5ad4d30,749,599,150,49,51
+http://dev.artemis.turintech.ai/optimisations/686d31e0-796b-4b73-b5b2-ee5955cdc80b,878,702,176,21,23
+http://dev.artemis.turintech.ai/optimisations/7091f230-ee4a-4304-98a1-21ff3cbe68af,392,313,79,21,23
+http://dev.artemis.turintech.ai/optimisations/80068774-5156-467a-bb60-2402d385849a,603,482,121,6,18
+http://dev.artemis.turintech.ai/optimisations/8ad940fe-356a-491f-bd14-1bf06ec29fbe,100,80,20,6,22
+http://dev.artemis.turintech.ai/optimisations/a56a3718-f2f3-4052-99e9-5ba20ac6d34a,390,312,78,53,65
+http://dev.artemis.turintech.ai/optimisations/afceaa59-2180-42b2-8ee1-3af84f15a7e7,183,146,37,5,10
+http://dev.artemis.turintech.ai/optimisations/c5248992-fd2c-4143-a3bf-c95c9ec7440a,227,181,46,4,14
+http://dev.artemis.turintech.ai/optimisations/c997ccd9-459a-4041-9d4f-9a9c890d0c39,228,182,46,15,26
+http://dev.artemis.turintech.ai/optimisations/dcc436ee-0eee-428f-a9cf-55bf944b5c7d,110,88,22,38,95
+http://dev.artemis.turintech.ai/optimisations/fbd61c89-85d1-41b6-bcea-146b351b0d49,12,9,3,3,4
